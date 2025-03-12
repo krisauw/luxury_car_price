@@ -11,18 +11,6 @@ This project analyzes the **average price of luxury car brands** using **Python,
 
 ---
 
-## 📂 Project Structure
-
-- 📂 **Car_Price_Analysis**
-  - 📄 `Midterm_Prep.ipynb` → Jupyter Notebook with analysis
-  - 📄 `Midterm_Prep.html` → Exported HTML version
-  - 📂 `images/` → Folder for saved chart images
-  - 📄 `README.md` → Project documentation
-  - 📂 `data/` → Dataset files
-  - 📄 `requirements.txt` → Required dependencies
-
----
-
 ## **📊 Example Visualizations**
 
 ### **Formatted Data Table**
