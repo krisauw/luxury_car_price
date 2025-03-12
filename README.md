@@ -44,7 +44,7 @@ This chart segments car prices based on seating capacity, revealing that higher 
 
 ---
 
-## **🚀 Technologies Used**
+## **🚀 Future Improvements**
 - Add interactive tooltips to the bar charts.
 - Improve color schemes for better data visualization.
 - Expand dataset to include more car brands and features.
