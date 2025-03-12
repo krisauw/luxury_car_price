@@ -49,9 +49,9 @@ This project analyzes the **average price of luxury car brands** using **Python,
 ---
 
 ## **🚀 Technologies Used**
-- 🔲 Add interactive tooltips to the bar charts.
-- 🔲 Improve color schemes for better data visualization.
-- 🔲 Expand dataset to include more car brands and features.
+- Add interactive tooltips to the bar charts.
+- Improve color schemes for better data visualization.
+- Expand dataset to include more car brands and features.
 
 --- 
 
