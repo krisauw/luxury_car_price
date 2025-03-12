@@ -14,10 +14,11 @@ This project analyzes the **average price of luxury car brands** using **Python,
 ## **📊 Example Visualizations**
 
 ### **Formatted Data Table**
-This vertical bar chart visualizes the ranking of car brands by average price, reinforcing Ferrari’s position as the most expensive brand, followed by Lamborghini and Rolls-Royce. The labels provide precise price values, helping illustrate the steep differences among luxury brands. This format effectively showcases the clear hierarchy in pricing within the high-end automobile market.
+This table presents key specifications of luxury car brands, including their average price, mileage, and seating capacity. The color-coded price column visually highlights the most expensive brands, reinforcing Ferrari and Lamborghini's dominance. Interestingly, the data also reveals that sports cars tend to have lower mileage, further suggesting that they are driven less compared to larger, more practical luxury vehicles.
 ![Data Table](https://github.com/user-attachments/assets/a71744ff-bf29-429b-a20a-6aa175a48580)  
 
 ### **Vertical Bar Chart**
+This vertical bar chart visualizes the ranking of car brands by average price, reinforcing Ferrari’s position as the most expensive brand, followed by Lamborghini and Rolls-Royce. The labels provide precise price values, helping illustrate the steep differences among luxury brands. This format effectively showcases the clear hierarchy in pricing within the high-end automobile market.
 ![Vertical Bar Chart](https://github.com/user-attachments/assets/d778aedc-d892-4745-a9bc-d0d63d800c65)  
 
 ### **Horizontal Bar Chart**
