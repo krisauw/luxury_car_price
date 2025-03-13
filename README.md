@@ -31,7 +31,7 @@ This horizontal bar chart highlights Ferrari as the most expensive car brand, wi
 ### **Facet Bar Chart**
 This chart segments car prices based on seating capacity, revealing that higher seating capacities do not necessarily lead to higher prices. While 2-seater luxury brands like Ferrari and Lamborghini dominate in price, some 4- and 5-seaters—such as Rolls-Royce and Maserati—also command premium prices. However, vehicles with 6-7 seats tend to have lower prices, indicating that exclusivity and performance may play a greater role in pricing than seating capacity.
 
-![Facet Bar Chart](https://github.com/user-attachments/assets/6bcdcfcf-463a-4f87-b5bf-f233eb1a6617)
+![Facet Bar Chart](https://github.com/user-attachments/assets/abf2617a-4fb0-4f9d-939f-75d100abdb1a)
 
 ---
 
